@@ -22,6 +22,8 @@
 
 ---
 
+
+x x,ld;oksokaev;
 ## 🌟 About This Repository
 
 > **A structured, math-first journey through Deep Learning** — every architecture explained with the underlying theory, equations, and working implementations in Jupyter Notebooks.
@@ -75,7 +77,8 @@ INPUT → [PERCEPTRON] → [ANN] → [CNN] → [RNN] → [LSTM] → INTELLIGENCE
 │   └── 📓 Spam_Email_Dectechtion.ipynb
 │
 ├── 📁 LSTM/
-│   └── 📓 LSTM.ipynb
+│   ├── 📓 LSTM.ipynb
+│   └── 📓 Fake/Real_news_Classification.ipynb.ipynb
 │
 ├── 📄 LICENSE
 └── 📄 README.md
@@ -413,6 +416,7 @@ $$\text{TF-IDF}(t, d) = \underbrace{\frac{f_{t,d}}{\sum_{t'} f_{t',d}}}_{\text{T
 | File | Description |
 |------|-------------|
 | `LSTM.ipynb` | 💬 Sentiment Analysis (Positive/Negative) using LSTM |
+| `Fake/Real_news_Classification.ipynb` | 📧 Fake/Real news detector with full NLP preprocessing |
 
 ---
 
